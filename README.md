@@ -72,6 +72,6 @@ I build fast, clean web interfaces and explore what the decentralized web looks 
 <div align="center">
 
 *Open to frontend roles, Web3 collaborations, and interesting side projects.*  
-**[Email me](mailto:YOUR@EMAIL.com)**
+**[Email me](mailto:mgboawajiwellington@gmail.com)**
 
 </div>
