@@ -51,7 +51,7 @@ I build fast, clean web interfaces and explore what the decentralized web looks 
 > `HTML` `CSS` `JavaScript` `Animation`
 
 ### 🔗 [Neuroclimate landing](https://mgboawaji.github.io/neuroclimate-main/)
-> One sentence on what problem this solves and for whom.  
+> A landing page for an AI-powered emotional forecasting tool.  
 > `HTML5` `CSS3` `JAVASCRIPT`
 
 
